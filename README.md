@@ -1,6 +1,8 @@
 # Hi, I'm Nha 👋
+### AI/ML Engineer
+📍 Stuttgart, Germany
 
-🎙️ **AI/ML Engineer** exploring how machines can **listen, speak, see, reason, and communicate**.
+🎙️ Exploring how machines can **listen, speak, see, reason, and communicate**.
 
 <p align="center">
   <img src="gif.gif" width="350">
@@ -21,4 +23,4 @@ Previously built **ReLecture**, a multimodal multi-agent system for adapting rec
 
 `🎙️ Speech × 👁️ Multimodal × 🤖 Agents × 💬 Communication`
 
-📍 Stuttgart, Germany · 🎓 M.Sc. Computational Linguistics
+

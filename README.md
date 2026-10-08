@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nha 👋
 
-<!--
-**rhanthm-rhythm/rhanthm-rhythm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎙️ **AI/ML Engineer** exploring how machines can **listen, speak, see, reason, and communicate**.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="gif.gif" width="350">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Areas of Interest
+
+- 🎙️ **Speech AI** — ASR, TTS, speech enhancement & generative speech
+- 🤖 **Multi-Agent Systems** — LLMs, agents & model orchestration
+- 🧠 **Multimodal AI** — connecting speech, language & vision
+- 💬 **Human-AI Communication** — building AI systems that can interact naturally
+
+### 🛠️ Currently
+
+Researching **test-time adaptation for generative speech models** at the University of Stuttgart.
+
+Previously built **ReLecture**, a multimodal multi-agent system for adapting recorded lectures to different audiences.
+
+`🎙️ Speech × 👁️ Multimodal × 🤖 Agents × 💬 Communication`
+
+📍 Stuttgart, Germany · 🎓 M.Sc. Computational Linguistics
